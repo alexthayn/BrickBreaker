@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\bin\Debug\Arkanoid_Remake.exe.config
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\bin\Debug\Arkanoid_Remake.exe
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\bin\Debug\Arkanoid_Remake.pdb
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\bin\Debug\Arkanoid_Remake.xml
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\MainWindow.g.vb
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Application.g.vb
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Arkanoid_Remake_MarkupCompile.cache
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Arkanoid_Remake_MarkupCompile.lref
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\MainWindow.baml
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Arkanoid_Remake.g.resources
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Arkanoid_Remake.Resources.resources
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Arkanoid_Remake.vbproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Arkanoid_Remake.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Arkanoid_Remake.exe
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Arkanoid_Remake.xml
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Arkanoid_Remake.pdb
+C:\Users\Alex\source\repos\Arkanoid_Remake\Arkanoid_Remake\obj\Debug\Arkanoid_Remake.vbprojResolveAssemblyReference.cache
